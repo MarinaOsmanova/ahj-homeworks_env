@@ -1,3 +1,3 @@
-console.log('it works!');
+import '../css/style.css';
 
-import '../css/styles.css';
+console.log('it works!');
