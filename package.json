@@ -1,5 +1,5 @@
 {
-  "name": "ajs",
+  "name": "ajs_yarn",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -37,5 +37,6 @@
   },
   "dependencies": {
     "core-js": "^3.6.5"
-  }
+  },
+  "repository": "https://github.com/MarinaOsmanova/ahj-homeworks_env.git"
 }
